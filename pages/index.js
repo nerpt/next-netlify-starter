@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="nerpt.net" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          _________________________
         </p>
       </main>
 
