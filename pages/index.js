@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Nerpt</title>
-        <link rel="icon" href="/favicon.ico" />
+         <link rel="icon" type="image/x-icon" href="IMG_2627.jpg">
       </Head>
 
       <main>
