@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="nerpt.nett" />
         <p className="description">
-          _________________________
+          ______________l___________
         </p>
       </main>
 
