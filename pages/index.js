@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Nerpt</title>
+        <title>Nerptt</title>
          <link rel="icon" type="image/x-icon" href="IMG_2627.jpg">
       </Head>
 
