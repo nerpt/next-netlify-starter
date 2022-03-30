@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="nerpt.nett" />
+        <Header title="nerpt.net" />
         <p className="description">
-          ______________l___________
+          ________________________
         </p>
       </main>
 
